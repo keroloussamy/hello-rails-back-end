@@ -1,6 +1,7 @@
 # Hello Rails backend
 
 > Practice how to use rails with react in two projects.
+> [Front project link](https://github.com/keroloussamy/hello-react-front-end)
 
 ## Built With
 
